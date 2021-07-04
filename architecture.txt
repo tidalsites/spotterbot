@@ -1,7 +1,7 @@
 Proposed architecture
 
 Database:
-  Firebase for ease of authentication
+  Firebase?
 
 Web Application:
   Front-end:
