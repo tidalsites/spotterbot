@@ -1,0 +1,14 @@
+Proposed architecture
+
+Database:
+  Firebase for ease of authentication
+
+Web Application:
+  Front-end:
+    - React
+    - SCSS
+    - Typescript
+
+SmartMirror:
+  Controller: python
+  UI: React?

@@ -1,0 +1,105 @@
+What is SpotterBot?
+
+SpotterBot is an AI assistant designed to assist in personal fitness goals
+
+What components will SpotterBot have?
+
+Spotterbot will have 2 major components:
+  - Web Application
+  - SmartMirror assistant
+
+What will the SmartMirror do?
+
+SpotterBots SmartMirror will provide an in-home gym mirror with embedded fitness tracking and assistant technology.
+Tracking fitness routines, personal goals, personal achievements, and even movement advice will be included.
+Available interfaces will be touch, voice, or vision.
+Touch will include interacting with an on-screen interface.
+Voice will allow users to perform functions with specified voice commands.
+Vision will allow function triggers using the built-in camera.
+
+What will the Web Application do?
+
+The SpotterBot Application will provide an interface to user data. A user will be able to view and modify fitness data.
+Additionally, the web appliation will provide a subset of functionality of the SmartMirror. 
+This will allow users to continue fitness routines while they are not immediately in the vicinity of their SmartMirror.
+
+
+What are the functions that will be provided by SpotterBot?
+
+SpotterBot will provide the following features and functions:
+  - SmartMirror Login (touch, voice, vision)
+  - SmartMirror Logout (touch, voice, vision)
+  - Web Application Login
+  - Web Application Logout
+  - SmartMirror Create User Profile (touch, voice)
+    - Username
+    - Email
+    - Password
+    - 2FA
+    - Phone Number
+    - First Name
+    - Last Name
+    - Middle Name
+    - Address
+    - Profile picture
+  - Web Application Create Profile
+    - Username
+    - Email
+    - Password
+    - 2FA
+    - Phone Number
+    - First Name
+    - Last Name
+    - Middle Name
+    - Address
+    - Profile picture
+  - SmartMirror Update Profile (touch, voice)
+    - Username
+    - Email
+    - Password
+    - 2FA
+    - Phone Number
+    - First Name
+    - Last Name
+    - Middle Name
+    - Address
+    - Profile picture
+  - Web Application Update Profile
+    - Username
+    - Email
+    - Password
+    - 2FA
+    - Phone Number
+    - First Name
+    - Last Name
+    - Middle Name
+    - Address
+    - Profile picture
+  - SmartMirror Create Fitness Profile (touch, voice)
+    - Exercise X Personal best
+    - Fitness images
+    - Workout graph
+    - Fitness goals
+  - SmartMirror Create fitness goals (touch, voice)
+  - SmartMirror Choose fitness regiment (touch, voice)
+  - SmartMirror Take photo (touch, voice)
+  - SmartMirror Edit photo (touch, voice)
+  - SmartMirror Before and After (touch, voice)
+  - Web Application Create fitness regiment
+  - SmartMirror Start Workout (touch, voice, vision)
+  - SmartMirror Stop Workout (touch, voice, vision)
+  - SmartMirror Start Exercise (touch, voice, vision)
+  - SmartMirror Stop Exercise (touch, voice, vision)
+  - SmartMirror Start rep (touch, voice, vision)
+  - SmartMirror Stop rep (touch, voice, vision)
+  - SmartMirror Adjust Exercise (touch, voice, vision)
+  - SmartMirror Adjust Workout (touch, voice)
+  - SmartMirror Adjust rep count (touch, voice)
+  - SmartMirror View Exercises (touch, voice)
+  - SmartMirror Add Exercise - local (touch, voice)
+  - SmartMirror Add Exercise - global *with approval* (touch, voice)
+  - SmartMirror Evaluate exercise form (vision)
+  - SmartMirror Provide exercise motivation (vision)
+  - SmartMirror Change voice (touch, voice)
+  - SmartMirror Confirm Workout (touch, voice)
+
